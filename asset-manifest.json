@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yogeshsharma4477/weatherApp.git/static/css/main.beb31c0e.chunk.css",
+    "main.js": "/yogeshsharma4477/weatherApp.git/static/js/main.fc4887e4.chunk.js",
+    "main.js.map": "/yogeshsharma4477/weatherApp.git/static/js/main.fc4887e4.chunk.js.map",
+    "runtime-main.js": "/yogeshsharma4477/weatherApp.git/static/js/runtime-main.953acf9a.js",
+    "runtime-main.js.map": "/yogeshsharma4477/weatherApp.git/static/js/runtime-main.953acf9a.js.map",
+    "static/js/2.1851a7f7.chunk.js": "/yogeshsharma4477/weatherApp.git/static/js/2.1851a7f7.chunk.js",
+    "static/js/2.1851a7f7.chunk.js.map": "/yogeshsharma4477/weatherApp.git/static/js/2.1851a7f7.chunk.js.map",
+    "static/js/3.f5809091.chunk.js": "/yogeshsharma4477/weatherApp.git/static/js/3.f5809091.chunk.js",
+    "static/js/3.f5809091.chunk.js.map": "/yogeshsharma4477/weatherApp.git/static/js/3.f5809091.chunk.js.map",
+    "index.html": "/yogeshsharma4477/weatherApp.git/index.html",
+    "static/css/main.beb31c0e.chunk.css.map": "/yogeshsharma4477/weatherApp.git/static/css/main.beb31c0e.chunk.css.map",
+    "static/js/2.1851a7f7.chunk.js.LICENSE.txt": "/yogeshsharma4477/weatherApp.git/static/js/2.1851a7f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.953acf9a.js",
+    "static/js/2.1851a7f7.chunk.js",
+    "static/css/main.beb31c0e.chunk.css",
+    "static/js/main.fc4887e4.chunk.js"
+  ]
+}
